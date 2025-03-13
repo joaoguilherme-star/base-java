@@ -14,6 +14,5 @@ public class BoletimEstudantil {
         }
         else System.out.println("Aprovado");
 
-
     }
 }
