@@ -2,8 +2,8 @@ public class MyClass {
 
     public static void main (String [] args){
 
-        String a = "Seve";
-        String b = "Rino";
+        String a = "BIA";
+        String b = "TRIZ";
 
         String c = FullName(a, b);
 
