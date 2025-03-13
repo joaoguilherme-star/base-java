@@ -17,5 +17,9 @@ public class variables {
         System.out.println("pi: " + pi);
         System.out.println("wage: " + wage);
 
+        //constants => reserved words -> final | it has to be always in CAPSLOCK
+        final float PI = 3.14F;
+        System.out.println("\nConstant Pi: " + PI);
+
     }
 }
