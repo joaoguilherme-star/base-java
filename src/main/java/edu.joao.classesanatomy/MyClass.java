@@ -1,3 +1,5 @@
+package edu.joao.classesanatomy;
+
 public class MyClass {
 
     public static void main (String [] args){
